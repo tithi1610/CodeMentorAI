@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "code-mentor-ai.helloWorld",
-        "title": "Hello World"
+        "command": "code-mentor-ai.codementorai",
+        "title": "Activate your AI Code Mentor"
       }
     ]
   },
